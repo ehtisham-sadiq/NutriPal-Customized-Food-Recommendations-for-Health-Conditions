@@ -19,7 +19,9 @@ The objectives of this project are as follows:
 
 <br>
 # Installation
+
 - **Clone the repository to your local machine.**
+
   `git clone https://github.com/bsef19m521/NutriPal-Customized-Food-Recommendations-for-Health-Conditions.git`
 
 - **Install the required dependencies.**
