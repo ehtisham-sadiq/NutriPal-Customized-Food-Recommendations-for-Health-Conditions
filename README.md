@@ -47,7 +47,9 @@ The objectives of this project are as follows:
 This project acknowledges the ethical issues of invasion of privacy, as personal information of patients is used in the study. The dataset used in this project is obtained from a reputable source, the Kaggle repository, and all necessary precautions will be taken to ensure data privacy and security.
 
 <br>
+
 # License
+
 This project is licensed under the **[MIT License]()**.
 
 # Acknowledgements
